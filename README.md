@@ -25,6 +25,8 @@ To implement MESSAGE AUTHENTICATION CODE(MAC)
 5. Security: The security of the MAC relies on the secret key \( K \) and the strength of the hash function \( H \), ensuring that an attacker cannot forge a valid MAC without knowledge of the key.
 
 ## Program:
+# DEVELOPED BY:RADHIMEENA M
+# REG NO : 212223040159
 ```
 #include <stdio.h>
 #include <string.h>
